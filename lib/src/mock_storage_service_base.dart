@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-class MockStorage {
+class MockStorageService {
   static void useMockStorage() {
     // Set mock method channel for path_provider package.
     const MethodChannel channel =
