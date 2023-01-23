@@ -1,0 +1,1 @@
+A helper class for mocking storage in tests.
