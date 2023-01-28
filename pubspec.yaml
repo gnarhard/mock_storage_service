@@ -1,4 +1,4 @@
-name: mock_storage_service
+name: test_storage
 description: A helper class for mocking storage in tests.
 version: 1.0.0
 

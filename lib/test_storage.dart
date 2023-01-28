@@ -3,4 +3,4 @@
 /// More dartdocs go here.
 library mock_storage_service;
 
-export 'src/mock_storage_service_base.dart';
+export 'src/test_storage_base.dart';
